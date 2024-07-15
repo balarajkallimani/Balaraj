@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm  currently learning
+Hi there
+I'm  currently learning about technology
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Balaraj&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
